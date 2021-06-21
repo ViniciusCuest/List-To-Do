@@ -35,7 +35,7 @@ export default function Welcome(){
                         <View style={styles.content}>
                             <View style={styles.main}>
                                 <Text style={styles.label}>Bem-vindo ao</Text>
-                                <Text style={styles.title}>Task Manager</Text>
+                                <Text style={styles.title}>List-to-do</Text>
                                 <Text style={[styles.title, {textAlign: "right", lineHeight: 50,}]}>😉📌</Text>
                                 <Text style={styles.description}>Aqui você poderá salvar tudo o que deseja {'\n'} que iremos alertá-lo 😜</Text>
                             </View>
